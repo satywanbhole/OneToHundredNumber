@@ -3,6 +3,7 @@ package com.numbers;
 public class WithoutUsingAnyMethod {
 
 	public static void main(String[] args) {
+		System.out.println("Without using for loop");
 		print(100);
 		print1(100);
 	}
