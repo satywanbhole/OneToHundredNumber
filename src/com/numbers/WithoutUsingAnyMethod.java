@@ -5,7 +5,6 @@ public class WithoutUsingAnyMethod {
 	public static void main(String[] args) {
 		print(100);
 		print1(100);
-
 	}
 
 	private static void print(int n) {
